@@ -1,9 +1,9 @@
 ## Hi there 👋
 <div>
-  <img style="margin: 38px;" height=200  width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mhmiripoor&theme=github_dark&rank_icon=github" />
-  <img height=180  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmiripoor&layout=compact&langs_count=8&card_width=320&theme=github_dark&show_icons=true&hide=dart,swift,c,kotlin" />
-
+<img style="margin:20px;" height=200  width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mhmiripoor&theme=github_dark&rank_icon=github" />
+<img height=180  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmiripoor&layout=compact&langs_count=8&card_width=320&theme=github_dark&show_icons=true&hide=dart,swift,c,kotlin" />
 </div>
+
 
 
 <!--
