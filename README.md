@@ -1,12 +1,8 @@
 ## Hi there 👋
-<a href="#" style="margin-right: 40px;">
-  <img height=200  width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mhmiripoor&theme=github_dark&rank_icon=github" />
-</a>
-<a href="#">
-  <img height=180  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmiripoor&layout=compact&langs_count=8&card_width=320&theme=github_dark&show_icons=true" />
-</a>
-
-
+<div>
+<img height=200  width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mhmiripoor&theme=github_dark&rank_icon=github" />
+<img height=180  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmiripoor&layout=compact&langs_count=8&card_width=320&theme=github_dark&show_icons=true&hide=dart" />
+</div>
 
 
 <!--
