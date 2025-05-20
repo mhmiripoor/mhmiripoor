@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 40px;" >
+<a style="margin-right: 40px;" >
   <img height=200  width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mhmiripoor&theme=github_dark&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
   <img height=180  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmiripoor&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</a>
+
 
 
 
